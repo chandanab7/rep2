@@ -7,3 +7,5 @@
 #git config user.email
 #second edit from remote
 #second attempt
+#dir
+#git remote -v
