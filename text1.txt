@@ -1,0 +1,7 @@
+##text file 
+#https://github.com/chandanab7/rep2.git
+#git init
+#git status
+#git config --list
+#git add
+#git config user.email
